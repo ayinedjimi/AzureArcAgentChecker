@@ -168,6 +168,14 @@ Event Log             | Event récent        |                      |           
 Pour questions ou support: contact@ayinedjimi-consultants.com
 
 
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
+
 ---
 
 <div align="center">
