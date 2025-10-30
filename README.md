@@ -1,5 +1,24 @@
 # 🚀 Azure Arc Agent Checker
 
+![C++](https://img.shields.io/badge/language-C++-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=flat-square) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+
+## 📑 Table des Matières
+
+- [📋 Description](#-description)
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [Compilation](#compilation)
+- [🚀 Utilisation](#-utilisation)
+- [Architecture Technique](#architecture-technique)
+- [Logging](#logging)
+- [🚀 Cas d'Usage](#-cas-dusage)
+- [Limitations](#limitations)
+- [Exemple Output](#exemple-output)
+- [🔧 Dépannage](#-dépannage)
+- [📄 Licence](#-licence)
+- [Support](#support)
+
+
+
 
 **Version:** 1.0
 **Auteur:** Ayi NEDJIMI Consultants
@@ -167,6 +186,14 @@ Event Log             | Event récent        |                      |           
 
 Pour questions ou support: contact@ayinedjimi-consultants.com
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
