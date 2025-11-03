@@ -1,0 +1,21 @@
+name: CI - Tests Automatiques
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    name: Tests
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout du code
+      uses: actions/checkout@v4
+
+    - name: ✅ Tests
+      run: |
+        echo "Configurer les tests pour votre projet"
+        # Ajoutez vos commandes de test ici

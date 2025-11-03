@@ -1,5 +1,8 @@
 # 🚀 Azure Arc Agent Checker
 
+![Stars](https://img.shields.io/github/stars/ayinedjimi/AzureArcAgentChecker?style=social) ![Forks](https://img.shields.io/github/forks/ayinedjimi/AzureArcAgentChecker?style=social) ![Issues](https://img.shields.io/github/issues/ayinedjimi/AzureArcAgentChecker)
+
+
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-Latest-blue?style=for-the-badge)
@@ -113,3 +116,25 @@ Expert en Cybersécurité & Intelligence Artificielle
 *Développé avec expertise et rigueur technique*
 
 </div>
+
+## 🚀 Installation
+
+```bash
+# Cloner le repository
+git clone https://github.com/VOTRE_USERNAME/AzureArcAgentChecker.git
+cd AzureArcAgentChecker
+
+# Suivez les instructions spécifiques au projet
+```
+
+
+## 💻 Utilisation
+
+### Exemple basique
+Consultez la documentation du projet pour des exemples d'utilisation détaillés.
+
+### Lancement
+```bash
+# Commande d'exécution
+# À adapter selon votre projet
+```
